@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.class1{
+    background-color: rgb(237, 27, 237);
+    height: 800px;
+    width: 800px;
+    
+}
+.class-2{
+    padding: 50px;
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(43, 40, 40);
+    color: white;
+    border: 1px solid rgb(43, 40, 40);
+    border-radius: 20px;
+    
+
+}
+h2{
+    text-align: center;
+}
+.button{
+    background-color: rgb(207, 35, 35);
+    border-radius: 4px;
+    height: 30px;
+    width: 90px;
+    margin: 0 auto;
+    text-align: center;
+}
+#class{
+    height: 30px;
+    width: 100px;
+}
